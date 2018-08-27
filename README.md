@@ -1,2 +1,1 @@
-#
-Hello, I am Peter. Just experimenting with git
+git is fantastic
